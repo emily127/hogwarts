@@ -27,3 +27,6 @@ from testing import *
 #
 # print(hello)
 # f()
+
+if __name__ == "__main__":
+    print('a')
