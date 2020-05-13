@@ -2,7 +2,6 @@
 #-*- coding:utf-8 -*-
 # @Author :xiaopingzi
 # @Time : 2020-05-11 16:52
-import decimal
 
 import pytest
 
