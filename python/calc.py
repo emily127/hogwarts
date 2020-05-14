@@ -16,7 +16,9 @@ class Calc:
         return round(result,1)
 
     def sub(self, a, b):
-        return a - b
+        result = a - b
+        return round(result, 2)
 
     def mult(self, a, b):
-        return a * b
+        result = a * b
+        return round(result,2)
